@@ -1,0 +1,5 @@
+vendor/
+.env
+launch.json
+settings.json
+xdebug.ini
